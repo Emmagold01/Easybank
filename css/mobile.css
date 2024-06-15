@@ -1,0 +1,16 @@
+.logo {
+    width: 25%;
+}
+
+nav ul li a,
+ .header-btn {
+    display: none;
+ }
+
+ .main-nav .toggle-btn {
+    display: block;
+ }
+
+ .dropdown-menu {
+    display: block;
+ }
