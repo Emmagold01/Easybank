@@ -60,9 +60,7 @@ nav ul li a,
  }
 
  /* why */
- #why {
-   margin-top: 2rem;
- }  
+  
 
  .why-container {
    grid-template-columns: 1fr ;
