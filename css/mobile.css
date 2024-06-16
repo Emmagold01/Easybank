@@ -90,3 +90,20 @@ nav ul li a,
  .article-space {
    text-align: center;
  }
+
+ /* Footer */
+ #main-footer .footer-container {
+   grid-template-columns: 1fr;
+   gap: 1rem;
+   align-items: center;
+   text-align: center;
+ }
+
+ #main-footer .footer-container .f-1 .f-logo {
+   justify-content: center;
+   margin-bottom: 1.5rem;
+ }
+
+ #main-footer .footer-container .f-1 .f-logo h3 {
+   margin-left: -4.4rem;
+ }
