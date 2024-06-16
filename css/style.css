@@ -129,6 +129,7 @@
   /* showcase */
   #showcase {
     padding: 2rem;
+    height: 100vh;
   }
 
   #showcase .showcase-container {
@@ -153,7 +154,6 @@
     font-size: 1rem;
     font-weight: 300;
     color: gray;
-    margin-bottom: 1rem;
   }
 
   .showcase-btn {
@@ -183,5 +183,89 @@
   bottom: 1rem;
   left: 40rem;
 }
+
+.bg-intro-mobile {
+  display: none;
+}
   
 /* why */
+#why {
+  margin-top: -2rem;
+  background: #eee;
+  padding: 30px 25px;
+}  
+
+.why-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  margin-bottom: 2rem;
+}
+
+.w-heading {
+  font-weight: 200;
+  font-size: 2rem;
+}
+
+#why .why-content {
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ gap: 1.5rem;
+}
+
+.why-content .card {
+  text-align: left;
+}
+
+.why-content .card h3 {
+  font-weight: 200;
+}
+
+.why-content .card img {
+  width: 19%;
+}
+
+/* Articles */
+#articles .article-container .article-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1.5rem;
+}
+
+#articles .article-container h1 {
+  font-weight: 200;
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+#articles .article-container .article-content img {
+  border-radius: 5px;
+}
+
+#articles .article-container .article-content .img2 {
+  height: 11.3rem;
+}
+
+.lead2 {
+  font-family: sans-serif;
+  font-size: .8rem;
+  font-weight: 300;
+  color: gray;
+}
+
+.text-primary {
+  font-weight: 300;
+}
+
+.text-primary:hover {
+  color: #00feba;
+}
+
+.card2 {
+  background: #fff;
+  margin-bottom: 1rem;
+}
+
+.article-space {
+  padding: 1rem;
+}
