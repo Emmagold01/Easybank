@@ -29,6 +29,7 @@ nav ul li a,
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-left: 2.3rem;
     padding: 0;
     margin-top: 25rem;
   }
@@ -60,7 +61,7 @@ nav ul li a,
 
  /* why */
  #why {
-   margin-top: 9rem;
+   margin-top: 4rem;
  }  
 
  .why-container {
