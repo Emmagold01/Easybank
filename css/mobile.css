@@ -59,7 +59,7 @@ nav ul li a,
 
  /* why */
  #why {
-  margin-top: -2.5rem;
+  margin-top: -2.8rem;
  }
  .why-container {
    grid-template-columns: 1fr ;
@@ -77,7 +77,7 @@ nav ul li a,
  }
 
  .w-heading {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
  }
 
  /* articles */
