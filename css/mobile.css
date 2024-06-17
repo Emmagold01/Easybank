@@ -59,7 +59,7 @@ nav ul li a,
 
  /* why */
  #why {
-  margin-top: -3rem;
+  margin-top: -9rem;
  }
  .why-container {
    grid-template-columns: 1fr ;
