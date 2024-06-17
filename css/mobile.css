@@ -51,7 +51,7 @@ nav ul li a,
  }
 
  .showcase-img {
-    width: 85%;
+    width: 90%;
     left: 2.7rem;
     bottom: 45rem;
     right: 0;
@@ -77,7 +77,7 @@ nav ul li a,
  #articles {
    padding: 2rem;
  }
- 
+
  #articles .article-container .article-content {
    grid-template-columns: 1fr;
    gap: 1rem;
@@ -105,5 +105,5 @@ nav ul li a,
  }
 
  #main-footer .footer-container .f-1 .f-logo h3 {
-   margin-left: -4rem;
+   margin-left: -4.7rem;
  }
