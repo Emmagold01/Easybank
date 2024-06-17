@@ -40,6 +40,10 @@ nav ul li a,
     font-weight: 200;
   }
 
+  .showcase-content {
+    margin-top: 1.6rem;
+  }
+
  .bg-intro {
     display: none;
  }
@@ -59,7 +63,7 @@ nav ul li a,
 
  /* why */
  #why {
-  margin-top: -2.8rem;
+  margin-top: -3rem;
  }
  .why-container {
    grid-template-columns: 1fr ;
